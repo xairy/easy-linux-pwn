@@ -1,0 +1,12 @@
+*.swp
+*.core
+core
+bin/x86/*
+bin/x86-64/*
+bin/arm/*
+bin/arm64/*
+bin/mips/*
+bin/mips64/*
+bin/ppc/*
+bin/ppc64/*
+bin/sparc64/*
